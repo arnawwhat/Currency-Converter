@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💱 Currency Converter
 
 A simple and interactive **Currency Converter** web application built with **React.js**! This app allows users to convert currencies in real-time using live exchange rates. 💰✨
@@ -115,4 +116,6 @@ const convert = () => {
 If you found this project useful, don't forget to **star** ⭐ the repository! 😍
 
 Happy Coding! 🚀
+
+=======
 
