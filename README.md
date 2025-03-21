@@ -115,7 +115,5 @@ const convert = () => {
 
 If you found this project useful, don't forget to **star** ⭐ the repository! 😍
 
-Happy Coding! 🚀
 
-=======
 
